@@ -1,5 +1,5 @@
 import { Canvas } from '@react-three/fiber'
-import { Environment, Center, Loader } from '@react-three/drei';
+import { Environment, Center, Loader, OrbitControls } from '@react-three/drei';
 
 import Shirt from './Shirt';
 import Backdrop from './Backdrop';
